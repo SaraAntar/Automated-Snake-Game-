@@ -1,0 +1,1 @@
+this project aim to build Automated Snake Game using efficient algorithms by using Python  
